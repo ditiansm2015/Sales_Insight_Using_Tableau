@@ -2,6 +2,7 @@
 AIM - To get Sales insight for PCS TECHNOLOGY LTD. using Tableau 
 
 Dataset is a property of Bosch and PCS TECHNOLOGY LTD. and cannot be made public (Under General Data Protection Regulations).
+Download the file and open it in Tableau to view the sheets and dashboards
 
 ————————————————————————
 
